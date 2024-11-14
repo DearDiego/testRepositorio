@@ -43,7 +43,7 @@
 #         4: (routine15000, mileage - routine15000),
 #         5: (routine18000, mileage - routine18000)
 #     }
-
+# asdasdasd
 #     # Iterar sobre cada rutina y su diferencia
 #     for routine, (closest_routine, difference) in routines.items():
 #         # Verificar si está dentro de 150 km antes de la rutina
